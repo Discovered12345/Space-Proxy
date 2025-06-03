@@ -72,4 +72,4 @@ Notes:
 
 - If your specific proxy link gets blocked, create a new google account and repeat initial steps.
 
-- If google cloud shell gets blocked, womp womp ill find a solution within a few days
+- If google shell cloud gets blocked, use dif comp or dif proxy
